@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+
+}
+
+
+
+.circle {
+    width: 473px;
+    height: 474px;
+    border: 30px solid red;
+    border-radius: 50%;
+    margin-top: -60px;
+    margin-left: -58px;
+}
+
+
+
+.c2 {
+    width: 418px;
+    height: 414px;
+    border: 30px solid orange;
+    border-radius: 50%;
+    margin-top: 45px;
+    margin-left: 34px;
+}
+
+
+.c3 {
+    width: 362px;
+    height: 365px;
+    border: 28px solid yellow;
+    border-radius: 50%;
+    margin-top: -477px;
+    margin-left: 0px;
+}
+.c4 {
+    width: 294px;
+    height: 294px;
+    border: 35px solid green;
+    border-radius: 50%;
+    margin-top: -393px;
+    margin-left: 27px;
+}
+.c5 {
+    width: 225px;
+    height: 227px;
+    border: 35px solid darkblue;
+    border-radius: 50%;
+    margin-top: -331px;
+    margin-left: 61px;
+
+}
+.c6 {
+    width: 0px;
+    height: 0px;
+    border: 115px solid brown;
+    border-radius: 50%;
+    margin-top: -263px;
+    margin-left:94px;
+}
